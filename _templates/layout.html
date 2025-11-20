@@ -1,0 +1,18 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for Brother Printer Drivers guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <meta name="google-site-verification" content="YOUR_GOOGLE_VERIFICATION_CODE" />
+    <meta name="msvalidate.01" content="YOUR_BING_VERIFICATION_CODE" />
+
+    <meta name="description" content="Learn how to download Brother printer drivers easily. Follow simple steps to find your model, choose your OS, and install the correct Brother driver for smooth printing." />
+
+    <meta name="keywords" content="brother printer drivers, download brother drivers, brother support, printer software download, install brother drivers" />
+
+    <meta name="robots" content="index, follow" />
+
+    <title>How to Download Brother Printer Drivers Easily – Step-by-Step Guide</title>
+
+    {{ super() }}
+{% endblock %}
