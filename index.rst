@@ -1,5 +1,5 @@
 ===============================
-How to Download Brother Printer Drivers Easily
+How to Download Brother Printer Drivers Easily ?
 ===============================
 
 .. raw:: html
@@ -21,10 +21,6 @@ Steps to Download Brother Printer Drivers
 6. Follow the **on-screen installation instructions** to complete setup.
 7. Restart your computer if required.
 
-Additional Support
-------------------
-
-For more detailed support and localized resources, you can also visit the **Brother India Support** page.
 
 Disclaimer
 ----------
