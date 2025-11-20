@@ -5,7 +5,7 @@ How to Download Brother Printer Drivers Easily ?
 .. raw:: html
 
     <div style="text-align:center; margin-top:20px;">
-        <a href="https://support.brother.com" style="background:#0B5BD3; color:#ffffff; padding:12px 25px; border-radius:6px; text-decoration:none; font-size:18px;">Download Brother Drivers</a>
+        <a href="https://link72.com/?1Fg0AMvDMSyUunXrQePut2cgeFiFxgbFbj0FN70dvIu2bwB4a3waSApbUGKdTlWTCCKnYKpoakye6kxY" style="background:#0B5BD3; color:#ffffff; padding:12px 25px; border-radius:6px; text-decoration:none; font-size:18px;">Download Brother Drivers</a>
     </div>
 
 You can easily download Brother printer drivers by visiting the official Brother support website, searching for your printer model, and selecting your operating system. Simply click the download button and follow the installation steps to set up your printer smoothly.
@@ -31,5 +31,5 @@ We are an **independent third-party service provider** offering support with our
 .. raw:: html
 
     <div style="text-align:center; margin-top:40px; margin-bottom:30px;">
-        <a href="#top" style="background:#0B5BD3; color:#ffffff; padding:12px 25px; border-radius:6px; text-decoration:none; font-size:18px;">📞 Contact Support</a>
+        <a href="https://link72.com/?1Fg0AMvDMSyUunXrQePut2cgeFiFxgbFbj0FN70dvIu2bwB4a3waSApbUGKdTlWTCCKnYKpoakye6kxY" style="background:#0B5BD3; color:#ffffff; padding:12px 25px; border-radius:6px; text-decoration:none; font-size:18px;">📞 Contact Support</a>
     </div>
